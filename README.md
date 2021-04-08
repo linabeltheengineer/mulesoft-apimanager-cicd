@@ -3,7 +3,7 @@
 
 **SUMMARY**
 
-This simple shell script is used to automate the API Manager UI using Anypoint Platform APIs. It provides the following functionality:
+This simple shell script is used to automate the Salesforce - Mulesoft API Manager UI using Anypoint Platform APIs. It provides the following functionality:
 
 1.) Create an API Instance
 
