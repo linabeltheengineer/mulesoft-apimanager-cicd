@@ -97,4 +97,5 @@ Make sure this json is .zip as when passing as an argument for shell execution
 
 
 **ADD MORE ANYPOINT PLATFORM ENDPOINTS**
+
 See API Manager API Specs here: https://anypoint.mulesoft.com/exchange/portals/anypoint-platform/f1e97bc6-315a-4490-82a7-23abe036327a.anypoint-platform/api-manager-api/
