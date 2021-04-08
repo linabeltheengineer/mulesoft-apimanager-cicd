@@ -26,11 +26,11 @@ This simple shell script is used to automate the API Manager UI using Anypoint P
 
 **EXECUTION EXAMPLE:**
 
-./apimanager.sh Linabel Linabel anypointpassword123 CIA Dev 948574589sdf4-23s42-23f42-23423s423 234fesda-f506-5c32-asbds-89fs830fef /c:/git-repos/api-testing/export.zip /c:/git-repos/api-testing/apidefinition.json
+`./apimanager.sh Linabel Linabel anypointpassword123 CIA Dev 948574589sdf4-23s42-23f42-23423s423 234fesda-f506-5c32-asbds-89fs830fef /c:/git-repos/api-testing/export.zip /c:/git-repos/api-testing/apidefinition.json`
 
 **API_DEFINITION_JSON EXAMPLE**
 
-{
+`{
   "endpoint": {
     "deploymentType": "CH",
     "isCloudHub": true,
@@ -51,14 +51,14 @@ This simple shell script is used to automate the API Manager UI using Anypoint P
     "version": "2.0.0",
     "update": "no"
   }
-}
+}`
 
 
 **EXPORT.ZIP EXAMPLE**
 Make sure this json is .zip as when passing as an argument for shell execution
 
 
-   {
+  `{
   "api": {
     "$self": {
       "name": "v1:15788422",
@@ -93,7 +93,7 @@ Make sure this json is .zip as when passing as an argument for shell execution
       "muleVersion4OrAbove": true
     }
   }
-}
+}`
 
 
 **ADD MORE ANYPOINT PLATFORM ENDPOINTS**
